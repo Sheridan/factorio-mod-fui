@@ -1,0 +1,9 @@
+{
+  "name": "fui",
+  "version": "0.1.0",
+  "title": "FUI",
+  "author": "Sheridan",
+  "factorio_version": "2.1",
+  "dependencies": [],
+  "description": "Factorio User Interfase library"
+}
